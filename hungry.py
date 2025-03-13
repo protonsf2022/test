@@ -1,5 +1,5 @@
 print("pizza Fast Food")
-print("burger")
+print("burger Fast Food")
 
 x=5
 y=10

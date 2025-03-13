@@ -1,4 +1,4 @@
-print("pizza")
+print("pizza Fast Food")
 print("burger")
 
 x=5
